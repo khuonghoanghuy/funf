@@ -1,4 +1,14 @@
 {
-    "name": "FUNF"
-    
+    "name": "FUNF",
+    "url": "https://github.com/khuonghoanghuy/funf",
+    "license": "MIT",
+    "tags": ["game"],
+    "description": "A Simple Haxelib for FNF.",
+    "version": "0.1",
+    "classPath": "src/",
+    "releasenote": "First version release.",
+    "contributors": ["huy1234th"],
+    "dependencies": {
+        "flixel": ""
+    }
 }
