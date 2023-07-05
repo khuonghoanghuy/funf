@@ -1,6 +1,8 @@
 # FUNF - Haxelib For FNF
 A Simple Haxelib for FNF when you need to add something like Accuracy but you was too lazy for find the code. Then this Haxelib is for you!
 
+`This haxelib still develop, need more time to make this into good haxelib :0`
+
 ### What FUNF Haxelib can do?
 See the list below:
 - Accuracy: In Dev
