@@ -11,7 +11,9 @@ See the list below:
 And more list will be added!
 
 ## How to install this lib?
-Simple!, run `haxelib install funf`!
+Simple!, run `haxelib install funf`
+
+or using git to install by `haxelib git funf https://github.com/khuonghoanghuy/funf.git`
 
 # Credits:
 - Huy1234TH: Main of this FUNF lib
